@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactfirstproject/static/css/main.bd162ede.css",
+    "main.js": "/reactfirstproject/static/js/main.d607fe13.js",
+    "static/media/software.jpg": "/reactfirstproject/static/media/software.66a7b5ed04f74a34f993.jpg",
+    "static/media/android.png": "/reactfirstproject/static/media/android.0193508e0267aa783e25.png",
+    "static/media/app.jpg": "/reactfirstproject/static/media/app.d491b82ea0d5ce98afe1.jpg",
+    "static/media/digital.png": "/reactfirstproject/static/media/digital.c7c47b00c4238b58f5ab.png",
+    "static/media/web.webp": "/reactfirstproject/static/media/web.409326730e7f7d04ec89.webp",
+    "static/media/marketing.webp": "/reactfirstproject/static/media/marketing.ebfa788c7505d742e74d.webp",
+    "static/media/web_development.svg": "/reactfirstproject/static/media/web_development.69e56511748f955558667c81cac82da4.svg",
+    "static/media/website.svg": "/reactfirstproject/static/media/website.1e83827aa245d628dfb29d064e337d82.svg",
+    "index.html": "/reactfirstproject/index.html",
+    "main.bd162ede.css.map": "/reactfirstproject/static/css/main.bd162ede.css.map",
+    "main.d607fe13.js.map": "/reactfirstproject/static/js/main.d607fe13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd162ede.css",
+    "static/js/main.d607fe13.js"
+  ]
+}
