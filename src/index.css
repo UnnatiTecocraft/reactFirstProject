@@ -1,118 +1,118 @@
 @import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Mulish", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
 }
 .navbar {
-  background-color: #fff !important;
+    background-color: #fff !important;
 }
 .navbar-brand {
-  font-size: 1.9rem !important;
-  color: #fa6767 !important;
-  font-weight: bold !important;
+    font-size: 1.9rem !important;
+    color: #fa6767 !important;
+    font-weight: bold !important;
 }
 .navbar a {
-  font-size: 1.2rem;
-  text-transform: capitalize;
+    font-size: 1.2rem;
+    text-transform: capitalize;
 }
 .nav-item .active {
-  font-weight: bold !important;
-  border-bottom: 1px solid #fa6767 !important;
+    font-weight: bold !important;
+    border-bottom: 1px solid #fa6767 !important;
 }
 .navbar a:hover {
-  color: #fa6767 !important;
+    color: #fa6767 !important;
 }
 /*------------------------------------ Home Page Style--------------------------------------------------------*/
 #header {
-  width: 100%;
-  height: 81.8vh;
+    width: 100%;
+    height: 81.8vh;
 }
 #header h1 {
-  font-weight: bold;
-  font-size: 30px;
+    font-weight: bold;
+    font-size: 30px;
 }
 #header h2 {
-  font-size: 20px;
+    font-size: 20px;
 }
 #header .brand-name {
-  color: #fa6767;
+    color: #fa6767;
 }
 #header .btn-get-stared {
-  font-weight: 500;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 50px;
-  transition: 0.5s;
-  color: #fa6767;
-  border: 2px solid #fa6767;
-  text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #fa6767;
+    border: 2px solid #fa6767;
+    text-decoration: none;
 }
 #header .btn-get-stared:hover {
-  background-color: #fa6767;
-  color: #fff;
+    background-color: #fa6767;
+    color: #fff;
 }
 .common_img {
-  text-align: right;
+    text-align: right;
 }
 #header .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 @keyframes up-down {
-  0% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(-10px);
-  }
+    0% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(-10px);
+    }
 }
 /*-----------------------------------------Service Page-----------------------------------------------*/
 .card-body h5 {
-  font-weight: bold !important;
+    font-weight: bold !important;
 }
 .card-body .btn {
-  background-color: #fa6767;
-  color: #fff;
+    background-color: #fa6767;
+    color: #fff;
 }
 .card-body .btn:hover {
-  background-color: #fff;
-  color: #fa6767;
-  border: 1.5px solid #fa6767;
-  font-weight: 600;
+    background-color: #fff;
+    color: #fa6767;
+    border: 1.5px solid #fa6767;
+    font-weight: 600;
 }
 /*--------------------------------------Contact Page------------------------------------------------------*/
 form .btn {
-  background-color: #fa6767;
-  color: #fff;
+    background-color: #fa6767;
+    color: #fff;
 }
 form .btn:hover {
-  background-color: #fff;
-  color: #fa6767;
-  border: 1.5px solid #fa6767;
-  font-weight: 600;
+    background-color: #fff;
+    color: #fa6767;
+    border: 1.5px solid #fa6767;
+    font-weight: 600;
 }
 
 footer p {
-  margin-top: 30px;
-  margin-bottom: 0;
+    margin-top: 30px;
+    margin-bottom: 0;
 }
 
 @media (max-width: 991px) {
-  .navbar-brand {
-    font-size: 1.5rem !important;
-  }
-  .nav-item .active {
-    font-weight: bold !important;
-    color: #fa6767;
-    border-bottom: none !important;
-  }
-  #header h1 {
-    font-size: 25px !important;
-  }
-  #header h2 {
-    font-size: 15px !important;
-  }
+    .navbar-brand {
+        font-size: 1.5rem !important;
+    }
+    .nav-item .active {
+        font-weight: bold !important;
+        color: #fa6767;
+        border-bottom: none !important;
+    }
+    #header h1 {
+        font-size: 25px !important;
+    }
+    #header h2 {
+        font-size: 15px !important;
+    }
 }

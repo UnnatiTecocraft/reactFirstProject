@@ -7,8 +7,7 @@ const Footer = () => {
                 <p>©️ 2020 DemoProject. All Rights Reserved | Term and Conditions </p>
             </footer>
         </>
-    )
-
+    );
 }
 
 export default Footer;
